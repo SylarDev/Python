@@ -35,7 +35,7 @@ def minutos_a_segundos(minutos, segundos):
     total = minus + seg
 
     return total
-4
+
 def minutos_a_horas(minutos, segundos):
     hor = minutos / 60
     minus = minutos % 60
@@ -104,7 +104,7 @@ def main():
         opcion = int(input("¿Que operacion deseas realizar?: "))
 
 
-    print("Nos vemos bigote...!!!")
+    print("Done...!!!")
     
 
 
